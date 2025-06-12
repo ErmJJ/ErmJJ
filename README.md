@@ -16,5 +16,5 @@ Hi, I’m Julian, a computer engineer, I am passionate about programming and tec
 - Visual Studio Code & Visual Studio 2022.
 
 ### Contact me 🫱🏻‍🫲🏻
-- [Linkedin](https://www.linkedin.com/in/julhernz/)
+- [LinkedIn](https://www.linkedin.com/in/julhernz/)
 - [E-mail](mailto:jjuli714@gmail.com)
